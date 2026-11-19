@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# Operating system
+.DS_Store
+
+# Temporary and backup files
+*.tmp
+*.backup
+
+# Uploaded employee datasets
+backend/data/uploads/
+
+# Python test/cache files
+.pytest_cache/
+.coverage

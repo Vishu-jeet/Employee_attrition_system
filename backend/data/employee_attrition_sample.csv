@@ -1,0 +1,251 @@
+Age,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,PerformanceRating,Attrition
+38,Sales,Sales Representative,43187,13,3,3,No,2,0
+36,IT,Developer,63684,14,3,4,Yes,3,0
+60,Human Resources,HR Manager,95502,26,3,3,Yes,3,1
+57,Sales,Sales Executive,91392,25,2,2,Yes,3,0
+25,IT,Developer,44159,1,3,4,No,3,0
+58,IT,Developer,99830,24,3,2,Yes,3,0
+47,Finance,Finance Manager,93270,18,4,1,No,2,0
+54,Research,Lab Technician,63204,10,1,1,Yes,3,0
+36,IT,IT Manager,53776,8,1,2,No,3,0
+60,Finance,Finance Manager,96247,24,3,1,Yes,3,0
+37,Sales,Manager,82266,13,4,4,No,3,0
+32,IT,IT Manager,74186,8,3,3,No,4,0
+54,Finance,Financial Analyst,93963,21,3,2,No,4,0
+52,Sales,Manager,119642,23,3,2,No,4,0
+60,Research,Lab Technician,85422,15,3,1,No,3,1
+50,Research,Research Manager,75265,2,3,3,Yes,3,1
+27,Sales,Manager,54719,7,4,3,Yes,3,0
+41,Sales,Manager,49531,5,3,3,No,3,1
+25,Human Resources,HR Executive,51558,5,3,3,Yes,3,1
+38,Sales,Sales Representative,84000,15,2,1,No,2,0
+28,Sales,Sales Representative,31725,0,4,3,No,3,0
+58,Research,Research Scientist,94630,16,2,2,No,2,0
+34,IT,Systems Analyst,39338,5,3,3,Yes,3,0
+57,Finance,Accountant,98997,22,3,3,No,4,0
+30,Research,Lab Technician,36484,1,2,3,Yes,3,1
+31,Sales,Manager,48831,12,3,4,No,3,0
+27,Sales,Sales Representative,38006,6,3,4,Yes,1,1
+23,IT,Developer,38166,3,3,3,No,4,0
+23,Research,Research Manager,58689,3,3,4,No,3,0
+23,IT,Systems Analyst,52761,3,3,4,Yes,3,1
+44,IT,Developer,79317,23,3,3,No,3,0
+33,IT,Developer,63912,14,2,3,Yes,3,0
+36,Finance,Accountant,41363,0,4,3,No,2,1
+29,Sales,Sales Executive,49637,5,4,4,Yes,3,1
+29,Human Resources,Recruiter,37393,5,2,1,No,3,1
+25,Human Resources,HR Executive,35236,0,3,4,No,3,0
+48,Sales,Sales Executive,72814,9,4,4,No,3,0
+59,IT,Systems Analyst,103044,13,4,4,No,3,1
+59,IT,Systems Analyst,77959,15,3,4,No,3,0
+58,Research,Research Manager,79164,5,2,2,No,2,1
+49,Sales,Sales Representative,71566,7,1,4,No,2,1
+46,Research,Lab Technician,80266,18,3,2,Yes,4,0
+21,Human Resources,HR Executive,33263,2,3,1,Yes,3,0
+38,Human Resources,Recruiter,63900,3,3,1,No,3,0
+41,Human Resources,HR Manager,55097,0,2,3,Yes,1,0
+51,Research,Research Manager,89994,11,3,2,Yes,3,0
+34,Sales,Sales Representative,63425,2,3,4,No,3,0
+22,Finance,Finance Manager,40463,1,3,1,No,4,1
+60,Finance,Accountant,105848,23,3,3,No,4,0
+57,Finance,Accountant,59885,6,4,3,No,1,1
+57,Research,Lab Technician,101171,21,4,3,Yes,3,0
+33,Human Resources,HR Executive,49016,11,3,4,No,4,0
+42,Sales,Manager,47263,1,3,3,No,4,0
+53,IT,IT Manager,105497,16,3,3,No,1,0
+32,Research,Research Scientist,38600,7,4,4,No,2,0
+30,Finance,Financial Analyst,44088,5,2,3,Yes,2,1
+22,Sales,Sales Representative,42521,0,3,3,No,3,0
+22,IT,Developer,50282,2,2,3,No,2,1
+44,Sales,Manager,82488,17,3,1,No,2,0
+33,Research,Lab Technician,46558,14,3,4,Yes,1,1
+23,Research,Research Scientist,38805,1,1,1,No,3,1
+47,Sales,Sales Representative,65842,15,3,3,No,2,0
+29,Sales,Sales Representative,49665,4,1,3,No,3,0
+60,Human Resources,HR Manager,82803,1,2,3,Yes,2,1
+53,IT,Developer,62366,10,4,2,No,4,0
+22,IT,Developer,45810,3,4,1,No,3,1
+45,Sales,Sales Representative,69729,5,4,1,Yes,2,0
+56,Sales,Sales Executive,62517,3,4,2,No,3,0
+33,IT,Developer,51709,11,3,3,No,2,1
+35,Sales,Sales Executive,53111,16,1,3,Yes,3,0
+22,Research,Research Scientist,36388,3,3,4,Yes,4,0
+28,Research,Research Scientist,58649,0,4,3,Yes,4,1
+44,Sales,Sales Executive,72410,18,1,2,No,3,0
+54,Finance,Financial Analyst,92310,12,3,3,Yes,2,1
+57,Human Resources,Recruiter,72133,4,3,2,No,2,0
+46,IT,Developer,64468,1,1,3,No,1,1
+49,Research,Lab Technician,87391,25,3,3,Yes,3,1
+41,Sales,Sales Representative,64173,1,4,4,No,3,0
+52,IT,Developer,97101,22,3,2,No,2,0
+34,IT,Developer,41078,3,3,1,Yes,4,1
+22,IT,Systems Analyst,33282,0,2,1,Yes,3,1
+47,Sales,Sales Executive,105165,25,3,3,No,3,0
+60,Research,Research Manager,56119,2,3,3,No,3,0
+54,Research,Research Scientist,101176,20,4,3,Yes,3,1
+35,Finance,Finance Manager,49807,13,4,3,Yes,2,0
+43,IT,Developer,68106,17,4,3,Yes,2,0
+52,Human Resources,Recruiter,74721,19,2,1,No,3,0
+47,Research,Research Scientist,78372,10,3,4,No,3,0
+46,Finance,Accountant,87385,17,2,2,No,4,1
+57,Finance,Financial Analyst,68042,5,2,4,No,2,1
+54,Research,Lab Technician,83640,22,3,3,No,1,0
+59,IT,Developer,84526,8,3,1,No,2,0
+37,IT,Systems Analyst,68890,9,3,3,No,2,1
+60,IT,Developer,82096,5,3,3,Yes,2,0
+37,IT,Developer,68752,5,3,3,Yes,3,1
+28,Sales,Manager,67024,5,3,4,Yes,3,0
+32,IT,Systems Analyst,28804,1,3,4,Yes,3,1
+24,Finance,Accountant,29722,0,4,2,No,3,0
+54,Finance,Finance Manager,90097,17,3,3,Yes,3,0
+32,Research,Research Scientist,74618,9,3,3,No,3,0
+35,Sales,Manager,57363,5,4,2,No,4,0
+21,IT,IT Manager,28441,1,4,2,No,2,1
+57,IT,Systems Analyst,66461,8,1,1,Yes,2,1
+32,IT,Developer,64849,14,4,4,Yes,3,0
+42,Finance,Accountant,75742,9,1,4,No,3,0
+29,Sales,Manager,55722,3,3,2,No,2,1
+52,IT,Developer,97030,17,4,3,Yes,1,1
+51,Human Resources,Recruiter,111134,24,4,3,No,2,0
+23,Research,Research Manager,31116,1,4,4,Yes,4,1
+32,Finance,Finance Manager,57049,1,1,2,No,2,0
+26,Sales,Sales Representative,47531,4,3,3,No,3,1
+32,Human Resources,Recruiter,51128,2,4,2,No,1,0
+53,IT,Developer,52513,0,2,1,Yes,3,1
+43,Finance,Accountant,66838,14,3,2,No,3,0
+53,Research,Research Scientist,82057,11,2,2,No,2,0
+36,IT,IT Manager,50474,1,3,3,No,3,0
+55,Finance,Finance Manager,86621,15,3,1,No,3,0
+31,Finance,Financial Analyst,45279,3,4,3,Yes,3,0
+24,Human Resources,HR Executive,41853,4,2,4,No,3,0
+21,Sales,Sales Representative,47479,0,2,3,Yes,3,0
+42,Human Resources,HR Manager,58906,1,2,4,No,2,0
+59,IT,Developer,92276,17,1,2,Yes,2,1
+41,Human Resources,HR Executive,74577,12,2,3,Yes,4,0
+37,IT,Systems Analyst,50008,4,4,3,No,3,1
+59,Human Resources,HR Manager,67458,15,4,4,No,3,0
+36,Sales,Manager,83669,17,4,3,Yes,3,0
+22,IT,Systems Analyst,55593,4,4,3,Yes,4,0
+56,Human Resources,HR Executive,93992,21,4,2,Yes,3,1
+24,Finance,Finance Manager,39472,6,3,3,Yes,1,1
+59,Human Resources,HR Manager,71014,6,3,4,No,3,0
+38,Human Resources,HR Executive,72412,17,2,3,No,2,0
+49,Research,Lab Technician,75288,12,2,2,Yes,3,1
+24,Sales,Sales Executive,28462,4,2,1,No,2,0
+60,Sales,Sales Executive,86784,14,2,3,No,3,0
+34,Finance,Financial Analyst,72342,16,2,3,No,3,0
+49,IT,IT Manager,84491,17,1,3,Yes,3,1
+45,IT,Systems Analyst,56585,3,2,4,Yes,3,0
+40,Sales,Sales Executive,78048,3,4,4,Yes,3,0
+27,Finance,Financial Analyst,28916,5,4,4,Yes,2,0
+58,IT,IT Manager,68197,5,2,3,No,3,0
+31,Human Resources,Recruiter,47495,8,2,4,Yes,3,1
+35,Sales,Sales Executive,72760,11,4,3,Yes,1,1
+56,Human Resources,HR Manager,66243,2,3,2,No,2,1
+54,Human Resources,HR Manager,49245,3,4,3,Yes,2,1
+54,Human Resources,HR Manager,69939,3,4,4,No,1,0
+45,Finance,Accountant,71962,24,3,2,No,3,0
+56,Sales,Sales Representative,100918,20,3,4,No,3,0
+23,Finance,Financial Analyst,40379,3,3,4,Yes,3,0
+26,Finance,Finance Manager,72108,6,1,3,No,2,0
+21,Human Resources,Recruiter,33088,2,3,4,Yes,2,0
+24,IT,IT Manager,38345,0,3,3,No,3,1
+52,Sales,Sales Executive,69013,11,2,3,Yes,2,1
+47,Sales,Sales Representative,77034,12,4,3,No,3,1
+54,IT,Systems Analyst,85674,16,1,3,No,3,0
+46,IT,Systems Analyst,59814,14,4,1,Yes,2,0
+52,Human Resources,HR Executive,90111,13,3,4,Yes,2,0
+52,Research,Research Manager,80723,18,1,3,No,3,0
+47,Human Resources,HR Manager,55409,6,3,2,No,3,1
+26,IT,Systems Analyst,72614,4,1,4,Yes,2,0
+40,Finance,Finance Manager,86637,18,4,2,Yes,3,0
+26,Human Resources,Recruiter,56192,8,3,1,No,2,1
+29,IT,IT Manager,33478,5,2,2,Yes,3,0
+44,Sales,Sales Representative,81402,20,3,4,No,4,0
+22,Sales,Sales Representative,34045,2,3,3,Yes,3,0
+28,IT,Systems Analyst,50286,7,4,3,Yes,3,0
+35,IT,Developer,49310,1,4,4,Yes,2,0
+41,IT,IT Manager,85502,5,3,3,No,3,0
+35,IT,IT Manager,57167,4,4,3,Yes,3,1
+22,Sales,Sales Executive,38621,1,3,4,Yes,3,0
+27,Sales,Manager,41876,9,3,3,Yes,3,0
+42,Finance,Accountant,68294,9,2,2,Yes,2,1
+42,Research,Lab Technician,71172,10,3,4,Yes,3,0
+45,Finance,Finance Manager,74154,15,3,4,No,2,0
+27,Human Resources,HR Manager,38144,6,3,3,No,3,0
+59,Finance,Accountant,79188,8,2,3,Yes,3,0
+57,IT,Systems Analyst,66087,4,3,3,No,4,0
+53,IT,IT Manager,57140,17,2,4,Yes,3,0
+48,IT,IT Manager,83418,21,4,3,No,3,1
+23,Human Resources,Recruiter,18000,2,3,3,No,4,0
+23,Finance,Accountant,45610,4,2,4,No,4,0
+38,IT,IT Manager,46467,2,3,1,Yes,2,1
+59,IT,Developer,74387,4,1,2,Yes,3,0
+29,Sales,Manager,53826,2,3,2,No,3,0
+56,Human Resources,Recruiter,105819,26,1,3,No,3,1
+56,Research,Research Manager,94003,17,3,2,No,3,0
+57,Finance,Financial Analyst,85462,12,2,4,Yes,2,1
+41,IT,IT Manager,71788,1,3,3,Yes,1,0
+26,Human Resources,Recruiter,37791,6,3,4,No,3,0
+44,IT,Developer,96015,12,2,3,Yes,3,0
+21,IT,IT Manager,34507,1,2,3,No,3,1
+55,Finance,Financial Analyst,95770,26,2,3,No,3,0
+54,Research,Research Manager,76550,16,4,3,No,4,1
+34,Sales,Sales Executive,45193,6,4,4,Yes,2,1
+32,IT,Developer,61928,10,4,4,Yes,2,1
+52,IT,Systems Analyst,101615,20,3,4,Yes,3,0
+41,Sales,Manager,78925,12,3,1,No,3,0
+21,IT,Systems Analyst,31406,0,3,3,No,4,1
+47,Sales,Sales Representative,79397,26,3,3,Yes,3,0
+41,Sales,Manager,78305,15,2,2,Yes,2,0
+57,IT,IT Manager,77247,8,2,2,No,2,0
+59,Human Resources,HR Executive,58801,3,1,3,Yes,3,0
+23,Sales,Sales Executive,46940,5,4,4,Yes,3,0
+59,Finance,Accountant,78274,1,1,3,Yes,4,0
+52,Finance,Accountant,84683,16,3,3,No,3,0
+25,Human Resources,Recruiter,39940,5,3,3,Yes,3,1
+48,Finance,Financial Analyst,81683,5,4,3,No,3,0
+24,Sales,Sales Representative,46164,1,3,1,Yes,2,0
+59,Sales,Sales Representative,89791,10,1,2,No,3,0
+36,Sales,Sales Representative,60029,18,3,2,Yes,3,1
+32,Sales,Sales Executive,44709,4,3,3,No,2,0
+27,IT,IT Manager,52840,0,3,4,No,2,0
+23,Sales,Sales Representative,42089,0,3,2,Yes,3,0
+60,Sales,Sales Executive,96274,22,2,4,No,3,0
+44,Finance,Financial Analyst,59487,10,1,4,Yes,1,0
+47,IT,IT Manager,64009,6,4,3,Yes,1,0
+50,Sales,Sales Representative,64313,13,4,4,No,3,0
+37,IT,IT Manager,51630,0,3,4,Yes,3,0
+28,Human Resources,HR Manager,46983,6,2,3,Yes,3,1
+28,Research,Research Manager,51428,9,3,3,Yes,3,1
+52,IT,Systems Analyst,79277,5,4,3,Yes,3,1
+24,IT,Developer,42980,2,2,3,No,3,0
+44,Finance,Finance Manager,63162,2,2,3,No,2,0
+46,IT,Systems Analyst,86269,16,2,4,No,3,0
+44,Finance,Finance Manager,53376,4,1,3,No,4,1
+26,IT,Systems Analyst,64755,6,4,4,No,1,0
+38,Sales,Sales Representative,66102,11,3,4,Yes,3,1
+50,IT,Systems Analyst,95312,22,3,4,No,3,1
+43,Research,Lab Technician,84566,17,3,4,No,4,0
+46,IT,Developer,73795,11,2,4,No,3,0
+30,Research,Research Manager,61172,10,4,4,No,4,0
+43,Sales,Sales Representative,92494,22,4,2,No,3,0
+44,Human Resources,Recruiter,56087,9,3,2,No,3,0
+48,IT,Developer,57540,6,2,4,Yes,3,0
+60,IT,Systems Analyst,73336,6,2,2,No,4,0
+36,Human Resources,HR Manager,47430,2,4,3,No,3,1
+21,Human Resources,Recruiter,63467,1,3,2,Yes,3,0
+45,Research,Research Manager,91091,14,1,2,No,3,0
+26,Finance,Finance Manager,42649,4,3,3,Yes,3,0
+37,Human Resources,HR Executive,60991,8,3,4,No,4,0
+35,Sales,Sales Representative,27344,1,1,3,Yes,4,0
+52,Finance,Financial Analyst,74803,4,3,4,No,3,1
+59,Research,Lab Technician,101057,22,2,3,No,1,0
+23,IT,Developer,42649,2,2,3,Yes,4,0
+28,IT,IT Manager,57326,5,3,4,Yes,3,0
+41,Sales,Sales Executive,64896,7,3,2,No,1,1
+43,Finance,Accountant,71732,9,3,4,No,2,0
+34,Sales,Sales Representative,46949,0,3,4,No,3,0
+30,IT,Developer,52299,8,2,4,Yes,3,0
+41,Sales,Sales Representative,81405,12,3,4,Yes,1,0
+56,Finance,Finance Manager,121341,26,1,2,No,4,0
